@@ -1,4 +1,5 @@
 # Art-Exhibition-Recommendation-System
+We present  
 
 ## Data
 The original source of our dataset is [WikiArt](https://www.wikiart.org/) and gathered from [here](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/README.md).
@@ -17,5 +18,10 @@ The original source of our dataset is [WikiArt](https://www.wikiart.org/) and ga
 ```
 The list of artworks and meta data that we used is available in ```data``` folder.
 
-
 ## Experiment
+We built a website that gets real-time users’ preference on certain art images as inputs, and returns recommended art
+images. The website refers a form of [TindART](https://dl.acm.org/doi/10.1145/3394171.3414445), a visual art recommendation system. When a user access the website, the recommendation results are provided with the following steps.
+
+1. A user is provided with images of artwork sequentially, 20 in total. For each artwork, the user is to choose between ’like’ or ’dislike’ button.
+2. After all choices have been made, the user is provided with two artwork recommendation sets; One close to his choice and the other recommended randomly.
+3. A user is asked to fill out an online questionnaire to assess his satisfaction level on the recommendations.
