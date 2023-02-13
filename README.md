@@ -25,3 +25,7 @@ images. The website refers a form of [TindART](https://dl.acm.org/doi/10.1145/33
 1. A user is provided with images of artwork sequentially, 20 in total. For each artwork, the user is to choose between ’like’ or ’dislike’ button.
 2. After all choices have been made, the user is provided with two artwork recommendation sets; One close to his choice and the other recommended randomly.
 3. A user is asked to fill out an online questionnaire to assess his satisfaction level on the recommendations.
+
+<p align="center">
+<img src=https://user-images.githubusercontent.com/97038307/218486020-545d4755-fa81-4159-aed5-81417080567f.png width=45%>
+</p>
