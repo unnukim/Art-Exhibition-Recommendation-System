@@ -27,5 +27,5 @@ images. The website refers a form of [TindART](https://dl.acm.org/doi/10.1145/33
 3. A user is asked to fill out an online questionnaire to assess his satisfaction level on the recommendations.
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/97038307/218486020-545d4755-fa81-4159-aed5-81417080567f.png width=45%>
+<img src=https://user-images.githubusercontent.com/97038307/218486020-545d4755-fa81-4159-aed5-81417080567f.png width=90%>
 </p>
